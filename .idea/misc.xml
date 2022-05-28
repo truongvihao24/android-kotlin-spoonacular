@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/drawable/ic_clock.xml" value="0.14" />
         <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.1" />
+        <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/layout/fragment_recipes.xml" value="0.1" />
+        <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/layout/placeholder_row_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/layout/recipes_row_layout.xml" value="0.1" />
         <entry key="..\:/Users/Hao/Desktop/android-kotlin-spoonacular/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14722222222222223" />
       </map>
     </option>
