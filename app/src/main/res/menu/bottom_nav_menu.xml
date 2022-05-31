@@ -5,8 +5,4 @@
         android:title="@string/recipes_fragment"
         android:icon="@drawable/ic_menu_book"/>
 
-    <item android:id="@+id/favoriteRecipesFragment"
-        android:title="@string/favorite_recipes_fragment"
-        android:icon="@drawable/ic_star"/>
-
 </menu>
